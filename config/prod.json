@@ -1,0 +1,8 @@
+{
+  "port": 4000,
+  "environment": "Production",
+  "jwt_secret": "this_is_a_top_secret",
+  "data_base": {
+    "mongo_uri": "mongodb+srv://root:root@cluster0.el4tr.mongodb.net/HospitalDB?retryWrites=true&w=majority"
+  }
+}
